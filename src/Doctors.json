@@ -1,0 +1,23 @@
+[
+  { "name": "Dr. Smith", "expertise": "(Orthopedic)", "city": "Delhi" },
+  {
+    "name": "Dr. Johnson",
+    "expertise": "(Physiotherapist)",
+    "city": "Mumbai"
+  },
+  {
+    "name": "Dr. John Smith",
+    "expertise": "(Orthopedic)",
+    "city": "Kolkata"
+  },
+  {
+    "name": "Dr. Danny",
+    "expertise": "(Physiotherapist)",
+    "city": "Bangalore"
+  },
+  {
+    "name": "Dr Kshama Mangal",
+    "expertise": "(Ankle Injury)",
+    "city": "Chennai"
+  }
+]
